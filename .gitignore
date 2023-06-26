@@ -1,7 +1,6 @@
 **/data
 **/images
-*.pdf
-*.zip
+**/results
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,python,pycharm+all
